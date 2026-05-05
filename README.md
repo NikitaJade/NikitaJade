@@ -3,4 +3,3 @@
 - 🌱 I’m currently brushing up on JavaScript and Python
 - My Goal for 2026 is to get the basics of Python sorted
 - 💞️ I’m looking to collaborate on UX, UI and basic Web Development
-- 📫 How to reach me nikitajadevdm@gmail.com
